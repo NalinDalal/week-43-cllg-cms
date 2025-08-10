@@ -45,7 +45,7 @@ level 3 - mpc private key infra
 
 run both backend and mcp-backend
 
-localhost:3000
+on localhost:3000
 
 test on /user/signup
 
